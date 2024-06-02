@@ -11,6 +11,10 @@ Despite its promise, the development of BCBs faces numerous challenges. One of t
 In conclusion, the concept of a Biological Computer Board is an exciting frontier in the convergence of biology and technology. It holds the potential to revolutionize computing by exploiting the unique capabilities of biological systems. While there are substantial challenges to overcome, the progress in this interdisciplinary field could lead to breakthroughs that transform various industries, from healthcare to environmental monitoring, by providing new tools and methods for processing information and interacting with the biological world.
 
 #
+
+> Alex: *"ChatGPT refined this concept and also made it possible."*
+
+#
 ### Related sources and links for the concept of a Biological Computer Board (BCB):
 
 Revamped Design Could Take Powerful Biological Computers From the Test Tube to the Cell:
