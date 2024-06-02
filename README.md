@@ -13,10 +13,6 @@ In conclusion, the concept of a Biological Computer Board is an exciting frontie
 #
 ### Related sources and links for the concept of a Biological Computer Board (BCB):
 
-The Unique Promise of 'Biological Computers' Made from Living Things:
-
-[New Scientist](https://www.newscientist.com/article/2273349-the-unique-promise-of-biological-computers-made-from-living-things/)
-
 Revamped Design Could Take Powerful Biological Computers From the Test Tube to the Cell:
 
 [National Institute of Standards and Technology (NIST)](https://www.nist.gov/news-events/news/2022/03/revamped-design-could-take-powerful-biological-computers-test-tube-cell)
