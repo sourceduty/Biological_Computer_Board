@@ -17,9 +17,6 @@ Revamped Design Could Take Powerful Biological Computers From the Test Tube to t
 
 [National Institute of Standards and Technology (NIST)](https://www.nist.gov/news-events/news/2022/03/revamped-design-could-take-powerful-biological-computers-test-tube-cell)
 
-Scientists Create World's First Biologically Powered Computer Chip:
-
-[New Atlas](https://newatlas.com/biology-computer-chip-columbia-engineering/40824/)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
