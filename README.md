@@ -17,6 +17,10 @@ Revamped Design Could Take Powerful Biological Computers From the Test Tube to t
 
 [National Institute of Standards and Technology (NIST)](https://www.nist.gov/news-events/news/2022/03/revamped-design-could-take-powerful-biological-computers-test-tube-cell)
 
+#
+### Related Links
+
+[PCB Architect](https://github.com/sourceduty/PCB_Architect)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
